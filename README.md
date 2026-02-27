@@ -1,2 +1,26 @@
-# strategic-thinking-puzzles
-Collection of strategic thinking puzzles and their solutions - https://keeprule.com
+# Strategic Thinking Puzzles
+
+Collection of strategic thinking puzzles from game theory, logic, and behavioral economics with detailed solutions.
+
+## Features
+
+- Practical tools and implementations
+- Research-backed methodologies
+- Interactive examples and exercises
+- Documentation and learning resources
+
+## Resources
+
+- [KeepRule](https://keeprule.com) - Decision Intelligence Platform
+- [Scenarios](https://keeprule.com/en/scenarios) - Decision case studies
+- [Principles](https://keeprule.com/en/principles) - Core frameworks
+- [Masters](https://keeprule.com/en/masters) - Expert wisdom
+- [Blog](https://keeprule.com/en/blog) - Latest insights
+
+## License
+
+MIT
+
+---
+
+*[KeepRule](https://keeprule.com) - Better decisions through better thinking*
